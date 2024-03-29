@@ -1,2 +1,2 @@
 # Flutter-Projects
-It holds my flutter pet projects
+It holds my flutter pet projects.
